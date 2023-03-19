@@ -1,5 +1,6 @@
 # Soft_Pneumatic_Gripper
 
-ผลงานทำเล่นของนักศึกษาจากสถาบันการจัดการปัญญาภิวัฒน์ (PIM) ชั้นปีที่ 1
+A project done by first-year students from the Panyapiwat Institute of Management (PIM) Soft Gripper and basic pneumatic system study.
 
-โดยมีรายละเอียดเพื่อศึกษา เกี่ยวกับ Soft_Gripper และศึกษาเกี่ยวกับระบบ Pneumatic แบบเบื้องต้นเท่านั้น จะมีการออกแบบประมาณสิ่งพื้นฐานของ Soft_Gripper ไม่มีการทดสอบความยืดหยุ่นและ ความทนทานทางฟิสิกส์
+The details of the project are for learning purposes only and cover only the basic design of the Soft Gripper. 
+There was no physical testing of the flexibility and physical durability of the Soft Gripper.
