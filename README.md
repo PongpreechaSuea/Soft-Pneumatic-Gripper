@@ -8,11 +8,6 @@ There was no physical testing of the flexibility and physical durability of the 
 
 <img src="./design/png/Soft.png" alt="gripper" width="280" height="400"> <img src="./design/png/Soft1.png" alt="robot" width="280" height="400"> <br>
 
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 08d1666bfa78f9a5fd0eb2b2c0782370a12ea448
 ## Drawing
 2D drawing in design
 
