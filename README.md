@@ -11,7 +11,7 @@ Tools used in development
 
 
 ## Overview
-<img src="./Design/PNG/Soft.png" alt="gripper" width="500" height="500"> <img src="./Design/PNG/Soft1.png" alt="robot" width="500" height="500"> 
+<img src="./Design/PNG/Soft.png" alt="gripper" width="400" height="400"> <img src="./Design/PNG/Soft1.png" alt="robot" width="400" height="400"> 
 <br>
 
 ## Drawing
