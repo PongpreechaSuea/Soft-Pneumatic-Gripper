@@ -1,0 +1,18 @@
+IRB360:Comments - this information may change without notice!
+--------------------------------------------
+X: 1Kg load or 3Kg load for "1130", for the moment there are only 1Kg load available for "800"
+STD: Standard
+WD: Wash-down
+WDS: Wash-down, Stainless - only available with 4D for 1 or 3 Kg load
+3D / 4D : Three axis / Four axis (three types depending on STD/WD/WDS)
+800 / 1130 size/diameter of work area
+---------------------------------------------
+The models for STD_3D and WD_3D are the same even though there might be minor differences in geometry - the kinematics are the same!
+
+There are individual models in RobotStudio to connect to the correct controller model
+
+CAD "Compl": The complete CAD model is achieved by adding all "joint"-models into one model/assembly. The "Compl"-model is omited due to problems to generate some formats when the CAD-models are more accurate!
+
+Due to the kinematic definition there are no plans for the moment to provide Robcad and IGRIP models of IRB360 - this may change later!
+
+EOF
