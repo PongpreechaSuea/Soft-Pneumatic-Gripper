@@ -6,11 +6,16 @@ There was no physical testing of the flexibility and physical durability of the 
 
 ## Overview
 
+<img src="./design/png/Soft.png" alt="gripper" width="280" height="400"> <img src="./design/png/Soft1.png" alt="robot" width="280" height="400"> <br>
 
 
-
-## Drawing <br>
+## Drawing
 2D drawing in design
 
 <img src="./Drawing/Base.png" alt="Base" width="280" height="400"> <img src="./Drawing/Gripper.png" alt="Gripper" width="280" height="400"> <br>
 <img src="./Drawing/Lock.png" alt="Lock" width="280" height="400"> <img src="./Drawing/Soft_Gripper.png" alt="Soft_Gripper" width="280" height="400">
+
+## Development
+Tools used in development
+- RobotStudio Suite | ABB
+- SOLIDWORKS | 3D CAD Design Software & PDM Systems
