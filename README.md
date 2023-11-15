@@ -13,4 +13,7 @@ There was no physical testing of the flexibility and physical durability of the 
 
 ## Drawing
 
-<img src="./image/score.png" alt="SOCRE KAGGLE" width="auto" height="auto">
+<img src="./Drawing/Base.png" alt="SOCRE KAGGLE" width="auto" height="auto">
+<img src="./Drawing/Gripper.png" alt="SOCRE KAGGLE" width="auto" height="auto">
+<img src="./Drawing/Lock.png" alt="SOCRE KAGGLE" width="auto" height="auto">
+<img src="./Drawing/Soft_Gripper.png" alt="SOCRE KAGGLE" width="auto" height="auto">
